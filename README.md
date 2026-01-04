@@ -1,2 +1,3 @@
 # goit-markup-hw-01
-my first project
+
+This is my first project
